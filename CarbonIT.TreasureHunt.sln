@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreasureHunt.HCI", "TreasureHunt.HCI\TreasureHunt.HCI.csproj", "{8AD9D949-8260-4775-ADF1-E0CAFE681EF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreasureHunt.Tests", "TreasureHunt.Tests\TreasureHunt.Tests.csproj", "{8C52A9AA-2FCD-4897-AD95-91756E580E4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreasureHunt.Game", "TreasureHunt.Game\TreasureHunt.Game.csproj", "{8D9F8A5B-12A0-4BC9-A65B-D831AF34D332}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8AD9D949-8260-4775-ADF1-E0CAFE681EF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AD9D949-8260-4775-ADF1-E0CAFE681EF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AD9D949-8260-4775-ADF1-E0CAFE681EF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AD9D949-8260-4775-ADF1-E0CAFE681EF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C52A9AA-2FCD-4897-AD95-91756E580E4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C52A9AA-2FCD-4897-AD95-91756E580E4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C52A9AA-2FCD-4897-AD95-91756E580E4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C52A9AA-2FCD-4897-AD95-91756E580E4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D9F8A5B-12A0-4BC9-A65B-D831AF34D332}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D9F8A5B-12A0-4BC9-A65B-D831AF34D332}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D9F8A5B-12A0-4BC9-A65B-D831AF34D332}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D9F8A5B-12A0-4BC9-A65B-D831AF34D332}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
